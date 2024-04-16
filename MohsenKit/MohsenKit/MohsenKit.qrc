@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/MohsenKit">
+        <file>qmldir</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>MButton.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,3 @@
+[submodule "NemoKit"]
+	path = NemoKit
+	url = https://github.com/capNmo/NemoKit.git
