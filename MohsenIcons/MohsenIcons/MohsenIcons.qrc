@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/MohsenIcons">
+        <file>qmldir</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Drawables.js</file>
+        <file>content-cut.svg</file>
+        <file>directions_walk_24dp.svg</file>
+        <file>ic_3x3_grid_white_24dp.svg</file>
+        <file>ic_add_black_24dp.svg</file>
+        <file>ic_alarm_purple_24dp.svg</file>
+    </qresource>
+</RCC>

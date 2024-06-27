@@ -27,4 +27,4 @@ add_executable(${PROJECT_NAME}
     ${rcc_file}
 )
 
-target_link_libraries(${PROJECT_NAME} ${QT_LIBS} MohsenKit)
+target_link_libraries(${PROJECT_NAME} ${QT_LIBS} MohsenKit MohsenIcons)

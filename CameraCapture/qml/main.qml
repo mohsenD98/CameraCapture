@@ -4,6 +4,7 @@ import QtQuick.Dialogs
 
 import MohsenCpp
 import MohsenKit as UiKit
+import MohsenIcons 1.0
 
 ApplicationWindow {
     visible: true
@@ -16,6 +17,10 @@ ApplicationWindow {
         onNewDataGenerated: newData => {
                                 plot.newFrameArrived(newData)
                             }
+    }
+
+    Image{
+      source: Drawables.content_ut
     }
 
     MVideoPlayerItem {
